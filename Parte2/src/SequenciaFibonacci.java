@@ -1,6 +1,7 @@
 public class SequenciaFibonacci {
 
     public static void main(String[] args) {
+        // Cálculo da sequência de Fibonacci
         int n = 10; 
         int a = 0, b = 1;
 

@@ -1,6 +1,7 @@
 public class MaiorEmenor {
 
     public static void main(String[] args) {
+        // Encontrar o maior e o menor número em um array
         int[] numeros = {3, 5, 7, 2, 8, 1, 4, 6};
         int maior = numeros[0];
         int menor = numeros[0];

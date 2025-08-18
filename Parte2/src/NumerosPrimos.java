@@ -1,6 +1,7 @@
 public class NumerosPrimos {
 
     public static void main(String[] args) {
+        // Encontrar números primos até um limite especificado
         int limite = 100; 
 
         System.out.println("Números primos até " + limite + ":");

@@ -1,6 +1,7 @@
 public class Fatorial {
 
     public static void main(String[] args) {
+        //  Cálculo do fatorial de um número
         int numero = 5; 
         int fatorial = 1;
 

@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class AdvinheONumero {
 
     public static void main(String[] args) {
+        //Advinhação
         System.out.println("Advinhe o número entre 1 e 100!");
         
 

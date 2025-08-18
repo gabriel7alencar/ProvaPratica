@@ -1,6 +1,7 @@
 public class Tabuada {
 
     public static void main(String[] args) {
+        // Cálculo da tabuada de um número
         
         int numero = 5; 
        

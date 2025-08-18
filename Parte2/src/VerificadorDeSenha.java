@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class VerificadorDeSenha {
 
-    //Peça uma senha ao usuário e continue pedindo até que a senha correta ("java17") seja digitada.
+    //Peçaa uma senha ao usuário e continue pedindo até que a senha correta ("java17") seja digitada.
     public static void main(String[] args) {
        Scanner tec = new Scanner(System.in);
         String senhaCorreta = "java17";
